@@ -5,7 +5,7 @@
   overscroll-behavior: none;
 }
 h5 {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 254, 254);
   font-weight: 600;
 }
 header > h1 {
@@ -14,10 +14,10 @@ header > h1 {
   font-weight: 400;
 }
 a {
-  color: #000000;
+  color: #ffffff;
 }
 .btn-outline-secondary {
-  --bs-btn-color: rgb(12, 11, 36);
+  --bs-btn-color: rgb(246, 246, 248);
 }
 .weather-app {
   width: 60%;
@@ -38,7 +38,7 @@ main {
   padding: 30px 0;
 }
 #current-temperature {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 .current-temperature {
   font-size: 48px;
@@ -52,10 +52,10 @@ main {
   font-size: 38px;
   font-weight: 900;
   margin: 0;
-  color: rgb(15, 2, 31);
+  color: rgb(254, 254, 255);
 }
 .current-details {
-  color: rgba(8, 3, 31, 0.6);
+  color: rgba(255, 255, 255, 0.6);
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -85,7 +85,7 @@ span#current-day {
 }
 .current-temperature-unit > a {
   text-decoration: none;
-  color: rgb(31, 19, 46);
+  color: rgb(255, 255, 255);
 }
 footer p {
   color: #ecd7ee;
